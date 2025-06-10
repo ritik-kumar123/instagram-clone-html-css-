@@ -5,15 +5,22 @@ This project is a **clone of Instagram's UI**, built using **HTML and CSS**. It 
 
 ## Features
 - Responsive design
-- Instagram-like feed layout
-- Navigation bar with search functionality
-- Profile and post sections
+- Instagram-like 
+- Navigation bar 
 
 ## Technologies Used
 - **HTML** for structure
 - **CSS** for styling and responsiveness
 
 ## Installation
-1. Clone the repository:
- ``sh
-https://github.com/ritik-kumar123/instagram-clone-html-css
+1. Clone or download the project:
+   ```sh
+   git clone https://github.com/ritik-kumar123/chess-clone.git
+   
+2. Open the `index.html` file in your browser.
+
+## Author
+Created by **Ritik Kumar**. Feel free to contribute or suggest improvements!
+
+## License
+This project is licensed under the MIT License.
