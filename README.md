@@ -24,3 +24,8 @@ Created by **Ritik Kumar**. Feel free to contribute or suggest improvements!
 
 ## License
 This project is licensed under the MIT License.
+
+  ## Contact
+For questions or suggestions, visit my [GitHub Profile](https://github.com/ritik-kumar123).
+
+
