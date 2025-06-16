@@ -27,7 +27,7 @@ This project is licensed under the MIT License.
 
   ## Contact
 Made with ❤️ by **Ritik Thakur(kumar)**  
-For questions or suggestions, visit my [GitHub Profile](https://github.com/ritik-kumar123) | [LinkedIn](https://linkedin.com/ritik-kumar123) 
+For questions or suggestions, visit my [GitHub Profile](https://github.com/ritik-kumar123) | [LinkedIn](https://linkedin.com/in/ritik-kumar123) 
  .
 
 
