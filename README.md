@@ -26,6 +26,8 @@ Created by **Ritik Kumar**. Feel free to contribute or suggest improvements!
 This project is licensed under the MIT License.
 
   ## Contact
-For questions or suggestions, visit my [GitHub Profile](https://github.com/ritik-kumar123).
+Made with ❤️ by **Ritik Thakur(kumar)**  
+For questions or suggestions, visit my [GitHub Profile](https://github.com/ritik-kumar123) | [LinkedIn](https://linkedin.com/ritik-kumar123) 
+ .
 
 
